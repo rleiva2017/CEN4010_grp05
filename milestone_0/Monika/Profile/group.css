@@ -1,0 +1,21 @@
+.title {
+    margin-bottom: 5%;
+}
+
+.text {
+    width:45%;
+    float: left;
+}
+
+.picture {
+    width: 30%;
+    float: right;
+    margin-left: 10;
+}
+
+
+.image {
+    display: block;
+    align-content: center;
+    width: 50%;
+}

@@ -1,0 +1,22 @@
+body
+{
+    text-align: none;
+    background-color:lavender;
+    color:black;
+    font-family: 'Oswald';font-size: 14px;
+} 
+
+hr {
+  clear:both;
+  display:block;
+  width: 96%;               
+  background-color:black;
+  height: 1px;
+}
+
+
+#line {
+    float: left;
+    width: 731px;
+    height: 10px;
+}
